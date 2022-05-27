@@ -1,0 +1,10 @@
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\bin\Debug\JuegoSnake.exe.config
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\bin\Debug\JuegoSnake.exe
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\bin\Debug\JuegoSnake.pdb
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\obj\Debug\JuegoSnake.csprojAssemblyReference.cache
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\obj\Debug\JuegoSnake.Form1.resources
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\obj\Debug\JuegoSnake.Properties.Resources.resources
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\obj\Debug\JuegoSnake.csproj.GenerateResource.cache
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\obj\Debug\JuegoSnake.csproj.CoreCompileInputs.cache
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\obj\Debug\JuegoSnake.exe
+C:\Users\DEMO FAST III\source\repos\JuegoSnake\JuegoSnake\obj\Debug\JuegoSnake.pdb
